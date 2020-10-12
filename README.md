@@ -4,6 +4,8 @@
 
 Use all the power of Composition API with Firebase in your Nuxt.js projects.
 
+Also checkout a fork [Firebase Composition with Vite](https://github.com/razbakov/vca-firebase)
+
 ## Usage
 
 Example of ToDos-App in `pages/index.vue`:
