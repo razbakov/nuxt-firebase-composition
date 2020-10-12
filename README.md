@@ -192,6 +192,8 @@ I would love to get some feedback and ideas.
 
 Please let me know if you tried to install it and if it worked smoothly or you got a problem.
 
-## Support
+## Support me
 
-Please create an issue in Github if something doesn't work.
+If you like the idea please give a star to [nuxt-firebase-composition](https://github.com/razbakov/nuxt-firebase-composition) on Github.
+
+If something doesn't work [create an issue](https://github.com/razbakov/nuxt-firebase-composition/issues/new).
