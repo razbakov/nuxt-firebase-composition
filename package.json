@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-firebase-composition",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Aleksey Razbakov",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "@nuxtjs/composition-api": "^0.12.6",
+    "firebase": "^7.23.0"
+  }
+}
