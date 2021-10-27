@@ -6,7 +6,7 @@ import {
   inject,
   provide,
 } from '@nuxtjs/composition-api'
-import { useFirebase } from './firebase.js'
+import { useFirebase } from './firebase.ts'
 import { useAuth } from './auth.js'
 
 const CollectionSymbol = Symbol('FirebaseCollection')
